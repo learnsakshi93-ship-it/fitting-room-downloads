@@ -1,31 +1,25 @@
-# Fitting Room Desktop Downloads
+# Fitting Room Desktop — Windows v0.2.2
 
-## Windows — version 0.2.1
+This update adds Saved Looks and side-by-side comparison to the Windows app.
 
-This release includes Full look with optional product categories. Download the
-versioned **Fitting-Room-Windows-x64.exe** from the GitHub release. It is a
-self-extracting portable app, not a setup wizard. Close any older copy, then open
-the downloaded file. Windows may show a warning because this preview is unsigned.
+## Download and use
 
-In the app, add a photo of yourself and any one, two, or all three separate
-clothing, shoes, and jewelry photos. You can leave any category out. At least one
-product photo is required. Select **See the fit** for one combined preview.
-The app is preconfigured for the published Fitting Room API.
+1. Download the **Fitting-Room-Windows-x64.exe** release asset. GitHub's automatic
+   Source code archives are README-only and are not the app.
+2. Open the unsigned, self-extracting portable app. Windows may show a security
+   warning. The app is preconfigured for the Fitting Room API.
+3. Choose **Full look** and add your photo and any one, two, or all three product
+   photos. At least one product photo is required.
+4. Use **Save look** to keep a favorite on this device. Saved images are private to
+   this desktop profile and are not synced to an account.
+5. Use **Compare** on recent or saved looks to show up to four together. Remove a
+   saved item at any time.
 
-To update an existing desktop app, download and run the new version; older copies
-do not update automatically. This release does not include Android or macOS builds.
+The updated Replit backend and web app must be published before using the new
+features. Previously downloaded desktop apps do not update automatically.
 
-## Retailer SDK
-
-Developers can download the JavaScript and Android SDK source from
+This is a Windows update; Android and macOS installers are not included. The
+separate JavaScript and Android retailer SDKs remain available from
 [SDK release v0.2.1](https://github.com/learnsakshi93-ship-it/fitting-room-sdk/releases/tag/v0.2.1).
-The separate SDK repository contains SDK code and instructions only, not the
-Fitting Room application or API source.
-
-## GitHub release assets
-
-Choose **Fitting-Room-Windows-x64.exe** to download the Windows app. GitHub's
-automatic **Source code (zip)** and **Source code (tar.gz)** archives contain this
-README and do not include the app. A SHA256SUMS attachment, when present, can be
-used to verify a download. No license is granted for reuse; all rights are
-reserved by the author.
+This downloads repository contains instructions and release files only, not the
+application source code.
