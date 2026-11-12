@@ -1,4 +1,4 @@
-# Fitting Room Desktop — Windows v0.2.2
+# Fitting Room Desktop — Windows v0.2.4
 
 This update adds Saved Looks and side-by-side comparison to the Windows app.
 
@@ -20,6 +20,6 @@ features. Previously downloaded desktop apps do not update automatically.
 
 This is a Windows update; Android and macOS installers are not included. The
 separate JavaScript and Android retailer SDKs remain available from
-[SDK release v0.2.1](https://github.com/learnsakshi93-ship-it/fitting-room-sdk/releases/tag/v0.2.1).
+[SDK release v0.2.3](https://github.com/learnsakshi93-ship-it/fitting-room-sdk/releases/tag/v0.2.3).
 This downloads repository contains instructions and release files only, not the
 application source code.
